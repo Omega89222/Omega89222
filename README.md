@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omega89222)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Omega89222/Omega89222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
